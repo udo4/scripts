@@ -1,0 +1,3 @@
+% Config params, overwrite any previous settings from the commandline
+config ap_ssid 		MyAPjangada
+config ap_password	12345678jan
